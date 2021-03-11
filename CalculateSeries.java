@@ -28,6 +28,7 @@ public class CalculateSeries {
             }
       
         System.out.println(arr.get(n-1));
+        
         scan.close();
     }
 }
